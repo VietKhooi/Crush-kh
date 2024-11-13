@@ -16,5 +16,5 @@ const CONFIG = {
     mess: 'Mình biết mà 🥰. Yêu bạn nhiều nhiều 😘😘',
     messDesc: '...',
     btnAccept: 'Okiiiii lun <3',
-    messLink: 'https://shopee.vn/'
+    messLink: 'https://i.pinimg.com/originals/82/06/af/8206af9d1a00baeb8644c72f2e3bd089.png'
 }
